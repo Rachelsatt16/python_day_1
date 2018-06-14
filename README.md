@@ -12,5 +12,5 @@ No biggie either way, smalls.
 
 We:
 Both subscribe to the Buddhist "Beginners Mind" concept. I can't wait for you to teach me something!
-
+This is my change :)
 Let's get this rolling! Fork/Clone this repo and check out the accompanying video playlist [here](http://youtube.com)
